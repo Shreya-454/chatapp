@@ -152,9 +152,6 @@ nav {
     padding-right: 12px;
 }
 
-.h1 {
-  padding-top: 130px;
-}
 
 .head1 {
     font-family: 'Poppins', sans-serif;
@@ -162,9 +159,10 @@ nav {
     font-weight: 600;
     line-height: 96px;
     letter-spacing: -0.02em;
-    /* text-align: left; */
+    text-align: left;
     color: white;
-    max-width: 499px
+    max-width: 499px;
+   
 }
 
 .txt {
